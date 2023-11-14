@@ -1,0 +1,22 @@
+1) How to keep track of variable and there in memory addresses?
+
+Table
+
+---------------------------------
+|    VAR      |      Memory     |
+---------------------------------
+|     a       |       x2331     |
+|     b       |       x2238     |
+---------------------------------
+
+2) How will it read lines?
+
+get char -> append it until one word is found that has some meaning
+
+i
+in
+int -> this has some meaning and so -> datatype
+
+int a
+int a = -> = is the break point that is after int we know of that it will be var name
+int a = 5 -> until EOL we will read the string to determine the value of the variable
